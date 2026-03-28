@@ -16,6 +16,8 @@ This project focuses on analyzing Git as an open-source software. It includes st
 
 Additionally, five shell scripts are developed to demonstrate basic Linux and shell scripting concepts such as variables, loops, conditions, file handling, and user input.
 
+This project is part of the Open Source Software course and demonstrates both theoretical understanding and practical implementation using shell scripting.
+
 ---
 
 ## Scripts Description
@@ -68,6 +70,7 @@ This script takes user input and generates a personalized open-source philosophy
 2. Bash Shell
 3. Basic Linux commands (ls, grep, awk, etc.)
 4. Git installed on system
+5. Basic knowledge of Linux commands
 
 ## Repository Contents
 
@@ -77,3 +80,6 @@ script3.sh
 script4.sh
 script5.sh
 README.md
+
+## Author
+Parinita Piplewar
